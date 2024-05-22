@@ -1,0 +1,26 @@
+[2024-05-21 20:15:41] [ ERROR] [OdontologoServiceTest:30] Syntax error in SQL statement "\000aCREATE TABLE ODONTOLOGOS (\000a    ID INT AUTO_INCREMENT PRIMARY KEY,\000a    APELLIDO VARCHAR(50) NOT NULL,\000a    NOMBRE VARCHAR(50) NOT NULL,\000a    NUM_MATRICULA VARCHAR(30)\000a)\000a\000a[*]INSERT INTO ODONTOLOGOS VALUES (DEFAULT, 'LUNA SILVA', 'EDUARDO', 'TU046715')"; SQL statement:
+
+CREATE TABLE ODONTOLOGOS (
+    ID INT AUTO_INCREMENT PRIMARY KEY,
+    APELLIDO VARCHAR(50) NOT NULL,
+    NOMBRE VARCHAR(50) NOT NULL,
+    NUM_MATRICULA VARCHAR(30)
+)
+
+INSERT INTO ODONTOLOGOS VALUES (DEFAULT, 'LUNA SILVA', 'EDUARDO', 'TU046715') [42000-224]
+[2024-05-21 20:17:30] [ INFO ] [OdontologoDaoH2:36] Odontologo guardado: Odontologoid=null, apellido='PEREZ', nombre='GENARO', numeroDeMatricula='TU785273
+[2024-05-21 20:19:40] [ INFO ] [OdontologoDaoH2:36] Odontologo guardado: Odontologoid=3, apellido='PEREZ', nombre='GENARO', numeroDeMatricula='TU785273
+[2024-05-21 20:23:36] [ INFO ] [OdontologoDaoH2:36] Odontologo guardado: Odontologoid=3, apellido='LUGO', nombre='DIANA', numeroDeMatricula='TU906483
+[2024-05-21 20:23:36] [ INFO ] [OdontologoDaoH2:76] Odontologo Listado: Odontologoid=1, apellido='LUNA SILVA', nombre='EDUARDO', numeroDeMatricula='TU046715
+[2024-05-21 20:23:36] [ INFO ] [OdontologoDaoH2:76] Odontologo Listado: Odontologoid=2, apellido='LUIS GONZALEZ', nombre='JUAN CAMILO', numeroDeMatricula='TU048215
+[2024-05-21 20:23:36] [ INFO ] [OdontologoDaoH2:76] Odontologo Listado: Odontologoid=3, apellido='LUGO', nombre='DIANA', numeroDeMatricula='TU906483
+[2024-05-21 20:23:51] [ INFO ] [OdontologoDaoH2:36] Odontologo guardado: Odontologoid=3, apellido='LUGO', nombre='DIANA', numeroDeMatricula='TU906483
+[2024-05-21 20:23:51] [ INFO ] [OdontologoDaoH2:76] Odontologo Listado: Odontologoid=1, apellido='LUNA SILVA', nombre='EDUARDO', numeroDeMatricula='TU046715
+[2024-05-21 20:23:51] [ INFO ] [OdontologoDaoH2:76] Odontologo Listado: Odontologoid=2, apellido='LUIS GONZALEZ', nombre='JUAN CAMILO', numeroDeMatricula='TU048215
+[2024-05-21 20:23:51] [ INFO ] [OdontologoDaoH2:76] Odontologo Listado: Odontologoid=3, apellido='LUGO', nombre='DIANA', numeroDeMatricula='TU906483
+[2024-05-21 20:24:19] [ INFO ] [OdontologoDaoH2:36] Odontologo guardado: Odontologoid=3, apellido='PEREZ', nombre='GENARO', numeroDeMatricula='TU785273
+[2024-05-21 20:24:20] [ INFO ] [OdontologoDaoH2:36] Odontologo guardado: Odontologoid=4, apellido='LUGO', nombre='DIANA', numeroDeMatricula='TU906483
+[2024-05-21 20:24:20] [ INFO ] [OdontologoDaoH2:76] Odontologo Listado: Odontologoid=1, apellido='LUNA SILVA', nombre='EDUARDO', numeroDeMatricula='TU046715
+[2024-05-21 20:24:20] [ INFO ] [OdontologoDaoH2:76] Odontologo Listado: Odontologoid=2, apellido='LUIS GONZALEZ', nombre='JUAN CAMILO', numeroDeMatricula='TU048215
+[2024-05-21 20:24:20] [ INFO ] [OdontologoDaoH2:76] Odontologo Listado: Odontologoid=3, apellido='PEREZ', nombre='GENARO', numeroDeMatricula='TU785273
+[2024-05-21 20:24:20] [ INFO ] [OdontologoDaoH2:76] Odontologo Listado: Odontologoid=4, apellido='LUGO', nombre='DIANA', numeroDeMatricula='TU906483
