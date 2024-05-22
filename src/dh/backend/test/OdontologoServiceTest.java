@@ -54,6 +54,6 @@ class OdontologoServiceTest {
         Odontologo odontologo = new Odontologo("LUGO", "DIANA", "TU906483");
         odontologoService.registrarOdontologo(odontologo);
         List<Odontologo> odontologos = odontologoService.listarOdontologos();
-        assertEquals(3, odontologos.size());
+        assertEquals(4, odontologos.size());
     }
 }

@@ -24,3 +24,19 @@ INSERT INTO ODONTOLOGOS VALUES (DEFAULT, 'LUNA SILVA', 'EDUARDO', 'TU046715') [4
 [2024-05-21 20:24:20] [ INFO ] [OdontologoDaoH2:76] Odontologo Listado: Odontologoid=2, apellido='LUIS GONZALEZ', nombre='JUAN CAMILO', numeroDeMatricula='TU048215
 [2024-05-21 20:24:20] [ INFO ] [OdontologoDaoH2:76] Odontologo Listado: Odontologoid=3, apellido='PEREZ', nombre='GENARO', numeroDeMatricula='TU785273
 [2024-05-21 20:24:20] [ INFO ] [OdontologoDaoH2:76] Odontologo Listado: Odontologoid=4, apellido='LUGO', nombre='DIANA', numeroDeMatricula='TU906483
+[2024-05-21 20:30:53] [ INFO ] [OdontologoDaoH2:36] Odontologo guardado: Odontologoid=3, apellido='PEREZ', nombre='GENARO', numeroDeMatricula='TU785273
+[2024-05-21 20:30:53] [ INFO ] [OdontologoDaoH2:36] Odontologo guardado: Odontologoid=4, apellido='LUGO', nombre='DIANA', numeroDeMatricula='TU906483
+[2024-05-21 20:30:53] [ INFO ] [OdontologoDaoH2:76] Odontologo Listado: Odontologoid=1, apellido='LUNA SILVA', nombre='EDUARDO', numeroDeMatricula='TU046715
+[2024-05-21 20:30:53] [ INFO ] [OdontologoDaoH2:76] Odontologo Listado: Odontologoid=2, apellido='LUIS GONZALEZ', nombre='JUAN CAMILO', numeroDeMatricula='TU048215
+[2024-05-21 20:30:53] [ INFO ] [OdontologoDaoH2:76] Odontologo Listado: Odontologoid=3, apellido='PEREZ', nombre='GENARO', numeroDeMatricula='TU785273
+[2024-05-21 20:30:53] [ INFO ] [OdontologoDaoH2:76] Odontologo Listado: Odontologoid=4, apellido='LUGO', nombre='DIANA', numeroDeMatricula='TU906483
+[2024-05-21 20:31:06] [ INFO ] [OdontologoDaoH2:36] Odontologo guardado: Odontologoid=3, apellido='PEREZ', nombre='GENARO', numeroDeMatricula='TU785273
+[2024-05-21 20:31:06] [ INFO ] [OdontologoDaoH2:36] Odontologo guardado: Odontologoid=4, apellido='LUGO', nombre='DIANA', numeroDeMatricula='TU906483
+[2024-05-21 20:31:06] [ INFO ] [OdontologoDaoH2:76] Odontologo Listado: Odontologoid=1, apellido='LUNA SILVA', nombre='EDUARDO', numeroDeMatricula='TU046715
+[2024-05-21 20:31:06] [ INFO ] [OdontologoDaoH2:76] Odontologo Listado: Odontologoid=2, apellido='LUIS GONZALEZ', nombre='JUAN CAMILO', numeroDeMatricula='TU048215
+[2024-05-21 20:31:06] [ INFO ] [OdontologoDaoH2:76] Odontologo Listado: Odontologoid=3, apellido='PEREZ', nombre='GENARO', numeroDeMatricula='TU785273
+[2024-05-21 20:31:06] [ INFO ] [OdontologoDaoH2:76] Odontologo Listado: Odontologoid=4, apellido='LUGO', nombre='DIANA', numeroDeMatricula='TU906483
+[2024-05-21 20:39:07] [ INFO ] [OdontologoDaoH2:20] Odontologo registrado: Odontologoid=1, apellido='LUGO', nombre='DIANA', numeroDeMatricula='TU906483
+[2024-05-21 20:39:07] [ INFO ] [OdontologoDaoH2:20] Odontologo registrado: Odontologoid=1, apellido='PEREZ', nombre='GENARO', numeroDeMatricula='TU785273
+[2024-05-21 20:39:42] [ INFO ] [OdontologoDaoH2:20] Odontologo registrado: Odontologoid=1, apellido='LUGO', nombre='DIANA', numeroDeMatricula='TU906483
+[2024-05-21 20:39:42] [ INFO ] [OdontologoDaoH2:20] Odontologo registrado: Odontologoid=1, apellido='PEREZ', nombre='GENARO', numeroDeMatricula='TU785273
